@@ -1,0 +1,81 @@
+Epoch [1/20]
+Train Loss: 5.1347, Train Accuracy: 80.82%
+Validation Loss: 5.1347, Validation Accuracy: 90.19%
+
+Epoch [2/20]
+Train Loss: 0.9745, Train Accuracy: 90.51%
+Validation Loss: 0.9745, Validation Accuracy: 90.74%
+
+Epoch [3/20]
+Train Loss: 0.7440, Train Accuracy: 91.60%
+Validation Loss: 0.7440, Validation Accuracy: 88.56%
+
+Epoch [4/20]
+Train Loss: 0.3584, Train Accuracy: 93.92%
+Validation Loss: 0.3584, Validation Accuracy: 93.19%
+
+Epoch [5/20]
+Train Loss: 0.2473, Train Accuracy: 95.63%
+Validation Loss: 0.2473, Validation Accuracy: 93.46%
+
+Epoch [6/20]
+Train Loss: 0.0827, Train Accuracy: 97.82%
+Validation Loss: 0.0827, Validation Accuracy: 92.37%
+
+Epoch [7/20]
+Train Loss: 0.0470, Train Accuracy: 98.57%
+Validation Loss: 0.0470, Validation Accuracy: 92.92%
+
+Epoch [8/20]
+Train Loss: 0.0249, Train Accuracy: 99.18%
+Validation Loss: 0.0249, Validation Accuracy: 92.64%
+
+Epoch [9/20]
+Train Loss: 0.0302, Train Accuracy: 99.39%
+Validation Loss: 0.0302, Validation Accuracy: 92.64%
+
+Epoch [10/20]
+Train Loss: 0.0171, Train Accuracy: 99.59%
+Validation Loss: 0.0171, Validation Accuracy: 92.64%
+
+Epoch [11/20]
+Train Loss: 0.0080, Train Accuracy: 99.86%
+Validation Loss: 0.0080, Validation Accuracy: 92.37%
+
+Epoch [12/20]
+Train Loss: 0.0139, Train Accuracy: 99.73%
+Validation Loss: 0.0139, Validation Accuracy: 92.92%
+
+Epoch [13/20]
+Train Loss: 0.0174, Train Accuracy: 99.32%
+Validation Loss: 0.0174, Validation Accuracy: 92.10%
+
+Epoch [14/20]
+Train Loss: 0.0116, Train Accuracy: 99.59%
+Validation Loss: 0.0116, Validation Accuracy: 92.92%
+
+Epoch [15/20]
+Train Loss: 0.0447, Train Accuracy: 98.98%
+Validation Loss: 0.0447, Validation Accuracy: 91.01%
+
+Epoch [16/20]
+Train Loss: 0.0804, Train Accuracy: 98.29%
+Validation Loss: 0.0804, Validation Accuracy: 92.92%
+
+Epoch [17/20]
+Train Loss: 0.0704, Train Accuracy: 98.63%
+Validation Loss: 0.0704, Validation Accuracy: 93.73%
+
+Epoch [18/20]
+Train Loss: 0.0802, Train Accuracy: 97.88%
+Validation Loss: 0.0802, Validation Accuracy: 88.28%
+
+Epoch [19/20]
+Train Loss: 0.0850, Train Accuracy: 97.88%
+Validation Loss: 0.0850, Validation Accuracy: 93.19%
+
+Epoch [20/20]
+Train Loss: 0.0409, Train Accuracy: 98.63%
+Validation Loss: 0.0409, Validation Accuracy: 91.01%
+
+Test Loss: 0.305689, Test Accuracy: 91.176471%
