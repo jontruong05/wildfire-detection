@@ -2,11 +2,11 @@
 
 This project leverages Convolutional Neural Networks (CNNs) and Multi-Layer Perceptrons (MLPs) to detect forest fires from satellite or drone-captured imagery. The models are trained on a dataset of labeled wildfire and non-wildfire images to predict the presence of fire in unseen images. 
 
-The purpose of this project is to experiment with various neural network architectures and investigate how different design choices impact image predictions. Eight MLPs and nine CNNs were created with the following hidden-layer specifications:
+The purpose of this project is to experiment with various neural network architectures and investigate how different design choices impact image predictions. Eight MLPs and nine CNNs were created with the following hidden-layer specifications (architectures that are bolded are the best-performing model of their respective type):
 
 MLPs:
 - `mlp_1`: 64
-- `mlp_2`: 128 → 64
+- **`mlp_2`: 128 → 64**
 - `mlp_3`: 256 → 64
 - `mlp_4`: 512 → 128
 - `mlp_5`: 256 → 128 → 64
@@ -23,7 +23,7 @@ CNNs:
 - `cnn_6`: 32 → 64 filters (conv size = 7)
 - `cnn_7`: 32 → 64 → 128 filters (conv size = 3)
 - `cnn_8`: 32 → 64 → 128 filters (conv size = 5)
-- `cnn_9`: 32 → 64 → 128 filters (conv size = 7)
+- **`cnn_9`: 32 → 64 → 128 filters (conv size = 7)**
 
 ## Dataset
 
