@@ -47,3 +47,5 @@ Run the cells in `wildfire_prediction.ipynb` in a linear fashion. Note that the 
 ## Future Work
 
 The best model will be re-implemented in TensorFlow and integrated into a production-ready wildfire detection application.
+
+(UPDATE 8/7/2025: The reimplementation is now in `wildfire_prediction_tf.ipynb`. Before running it, run the following command: `pip install tensorflow`. Then run the notebook in a linear fashion.)
